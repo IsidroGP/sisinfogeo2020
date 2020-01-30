@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\bin\Debug\netcoreapp3.1\02.areacirculo.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\02.areacirculo\obj\Debug\netcoreapp3.1\02.areacirculo.pdb
