@@ -1,0 +1,11 @@
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.runtimeconfig.dev.json
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.dll
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\bin\Debug\netcoreapp3.1\04.ciclos.pdb
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.csprojAssemblyReference.cache
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfoInputs.cache
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.AssemblyInfo.cs
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.dll
+g:\Mi unidad\04.sisinfogeo2020\proyectos\04.ciclos\obj\Debug\netcoreapp3.1\04.ciclos.pdb
