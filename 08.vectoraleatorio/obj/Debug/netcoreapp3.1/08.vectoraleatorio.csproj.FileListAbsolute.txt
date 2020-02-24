@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\bin\Debug\netcoreapp3.1\08.vectoraleatorio.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\08.vectoraleatorio\obj\Debug\netcoreapp3.1\08.vectoraleatorio.pdb

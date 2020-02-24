@@ -1,0 +1,3 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\14.CuentaBancaria\obj\Debug\netcoreapp3.1\14.CuentaBancaria.AssemblyInfo.cs

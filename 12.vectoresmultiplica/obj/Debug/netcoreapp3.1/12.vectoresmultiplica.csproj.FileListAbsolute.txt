@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\bin\Debug\netcoreapp3.1\12.vectoresmultiplica.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\bin\Debug\netcoreapp3.1\12.vectoresmultiplica.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\bin\Debug\netcoreapp3.1\12.vectoresmultiplica.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\bin\Debug\netcoreapp3.1\12.vectoresmultiplica.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\bin\Debug\netcoreapp3.1\12.vectoresmultiplica.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\bin\Debug\netcoreapp3.1\12.vectoresmultiplica.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\obj\Debug\netcoreapp3.1\12.vectoresmultiplica.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\obj\Debug\netcoreapp3.1\12.vectoresmultiplica.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\obj\Debug\netcoreapp3.1\12.vectoresmultiplica.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\obj\Debug\netcoreapp3.1\12.vectoresmultiplica.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\12.vectoresmultiplica\obj\Debug\netcoreapp3.1\12.vectoresmultiplica.pdb

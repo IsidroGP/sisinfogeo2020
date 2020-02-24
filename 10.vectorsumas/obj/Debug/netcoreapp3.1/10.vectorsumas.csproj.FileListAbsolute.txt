@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\bin\Debug\netcoreapp3.1\10.vectorsumas.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\10.vectorsumas\obj\Debug\netcoreapp3.1\10.vectorsumas.pdb
