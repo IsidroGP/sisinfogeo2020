@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\bin\Debug\netcoreapp3.1\18.Diccionario.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\18.Diccionario\obj\Debug\netcoreapp3.1\18.Diccionario.pdb
