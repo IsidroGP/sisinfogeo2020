@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\bin\Debug\netcoreapp3.1\26.Interfaz2.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\bin\Debug\netcoreapp3.1\26.Interfaz2.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\bin\Debug\netcoreapp3.1\26.Interfaz2.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\bin\Debug\netcoreapp3.1\26.Interfaz2.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\bin\Debug\netcoreapp3.1\26.Interfaz2.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\bin\Debug\netcoreapp3.1\26.Interfaz2.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\obj\Debug\netcoreapp3.1\26.Interfaz2.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\obj\Debug\netcoreapp3.1\26.Interfaz2.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\obj\Debug\netcoreapp3.1\26.Interfaz2.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\obj\Debug\netcoreapp3.1\26.Interfaz2.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\26.Interfaz2\obj\Debug\netcoreapp3.1\26.Interfaz2.pdb
