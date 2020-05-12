@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\bin\Debug\netcoreapp3.1\30.Threading4.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\bin\Debug\netcoreapp3.1\30.Threading4.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\bin\Debug\netcoreapp3.1\30.Threading4.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\bin\Debug\netcoreapp3.1\30.Threading4.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\bin\Debug\netcoreapp3.1\30.Threading4.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\bin\Debug\netcoreapp3.1\30.Threading4.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\obj\Debug\netcoreapp3.1\30.Threading4.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\obj\Debug\netcoreapp3.1\30.Threading4.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\obj\Debug\netcoreapp3.1\30.Threading4.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\obj\Debug\netcoreapp3.1\30.Threading4.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\30.Threading4\obj\Debug\netcoreapp3.1\30.Threading4.pdb
