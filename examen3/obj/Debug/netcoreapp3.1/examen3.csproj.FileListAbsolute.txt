@@ -1,0 +1,11 @@
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\bin\Debug\netcoreapp3.1\examen3.exe
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\bin\Debug\netcoreapp3.1\examen3.deps.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\bin\Debug\netcoreapp3.1\examen3.runtimeconfig.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\bin\Debug\netcoreapp3.1\examen3.runtimeconfig.dev.json
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\bin\Debug\netcoreapp3.1\examen3.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\bin\Debug\netcoreapp3.1\examen3.pdb
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\obj\Debug\netcoreapp3.1\examen3.csprojAssemblyReference.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\obj\Debug\netcoreapp3.1\examen3.AssemblyInfoInputs.cache
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\obj\Debug\netcoreapp3.1\examen3.AssemblyInfo.cs
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\obj\Debug\netcoreapp3.1\examen3.dll
+G:\Mi unidad\04.sisinfogeo2020\proyectos\examen3\obj\Debug\netcoreapp3.1\examen3.pdb
